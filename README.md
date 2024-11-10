@@ -38,7 +38,6 @@ npm run build
 npm start
 ```
 ### 🖼️ Preview
-Add your images here to showcase the game.
 ![Screenshot from 2024-11-10 16-00-26](https://github.com/user-attachments/assets/6c654253-84fa-4a87-b1f3-6cfd662137b2)
 ![Screenshot from 2024-11-10 15-56-57](https://github.com/user-attachments/assets/e50fa148-48d3-481b-a11c-dad0eca073e0)
 ![Screenshot from 2024-11-10 15-56-38](https://github.com/user-attachments/assets/30d4e692-bc17-4d70-a253-276d2e1eca5c)
